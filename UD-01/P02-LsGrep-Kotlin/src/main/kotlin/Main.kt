@@ -16,7 +16,7 @@ fun main() {
     println("Valor de salida proceso ls: $exitValue")
 
     // Proceso de ejecución de un comando cat
-    // Tomamos la primera linea
+    // Tomamos la primera línea
     val ficheroCat = lsOut.lines().first().split(" ").last()
     println(ficheroCat)
 

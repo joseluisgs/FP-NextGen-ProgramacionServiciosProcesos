@@ -28,9 +28,7 @@ public class Main {
             int exitCode = process.waitFor();
             System.out.println("\nExited with error code : " + exitCode);
 
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (InterruptedException e) {
+        } catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
 
