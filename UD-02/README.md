@@ -36,7 +36,7 @@ De acuerdo al [Real Decreto 450/2010](https://www.boe.es/boe/dias/2010/05/20/pdf
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y se fijan sus
 enseñanzas mínimas, los resultados de aprendizaje de esta unidad es:
 
-1. Desarrolla aplicaciones compuestas por varios hilos de ejecución.
+2. Desarrolla aplicaciones compuestas por varios hilos de ejecución.
 
 ## Propuestas de cambios, sugerencias, mejoras, etc.
 Nadie es perfecto, y puede que estos ejemplos desde tu punto de vista se puedan mejorar, o que haya algún error. Si tienes alguna propuesta de mejora, sugerencia, etc., abre un [issue](https://github.com/joseluisgs/FP-NextGen-AccesoDatos/issues) o un [pull request](https://github.com/joseluisgs/FP-NextGen-AccesoDatos/pulls) con tu aportación. Muchas gracias por tu colaboración.
