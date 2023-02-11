@@ -9,24 +9,33 @@ Repositorios de materiales y proyectos usados como ejemplos en FP-NextGen para e
 ![fp-recursos](https://raw.githubusercontent.com/joseluisgs/FP-NextGen-ProgramacionServiciosProcesos/main/images/recursosdigitales01.png)
 
 - [FP-NextGen-ProgramacionServiciosProcesos 💻](#fp-nextgen-programacionserviciosprocesos-)
-  - [Presentación](#presentación)
-  - [Contenidos](#contenidos)
+  - [05 Técnicas de programación segura](#05-técnicas-de-programación-segura)
+  - [Ejemplos](#ejemplos)
+  - [Resultados de aprendizaje](#resultados-de-aprendizaje)
   - [Propuestas de cambios, sugerencias, mejoras, etc.](#propuestas-de-cambios-sugerencias-mejoras-etc)
   - [Dudas](#dudas)
   - [Autor](#autor)
     - [Contacto](#contacto)
   - [Licencia de uso](#licencia-de-uso)
 
-## Presentación
-Repositorios de materiales y proyectos usados de ejemplos en FP-NextGen para el módulo de Programación de Servicios y Procesos de 2º del ciclo de grado superior de Desarrollo de Aplicaciones Multiplataforma.
+## 05 Técnicas de programación segura
+A lo largo de esta unidad didáctica se trabajará con los siguientes conceptos:
+- Seguridad en las comunicaciones
+- Sistemas criptográficos
+- SSL/TSL
+- Secure Sockets
+- JWT
 
-## Contenidos
-1. Programación multiproceso
-2. Programación concurrente y asíncrona
-3. Programación de comunicaciones en red
-4. Generación de servicios en red
-5. Técnicas de programación segura
+## Ejemplos
+1. TSL BCrypt JWT Kotlin
+2. API REST Segura Java
 
+## Resultados de aprendizaje
+De acuerdo al [Real Decreto 450/2010](https://www.boe.es/boe/dias/2010/05/20/pdfs/BOE-A-2010-8067.pdf), de 16 de abril, por el que se establece el título de
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y se fijan sus
+enseñanzas mínimas, los resultados de aprendizaje de esta unidad es:
+
+5. Protege las aplicaciones y los datos definiendo y aplicando criterios de seguridad en el acceso, almacenamiento y transmisión de la información.
 
 ## Propuestas de cambios, sugerencias, mejoras, etc.
 Nadie es perfecto, y puede que estos ejemplos desde tu punto de vista se puedan mejorar, o que haya algún error. Si tienes alguna propuesta de mejora, sugerencia, etc., abre un [issue](https://github.com/joseluisgs/FP-NextGen-ProgramacionServiciosProcesos/issues) o un [pull request](https://github.com/joseluisgs/FP-NextGen-ProgramacionServiciosProcesos/pulls) con tu aportación. Muchas gracias por tu colaboración.

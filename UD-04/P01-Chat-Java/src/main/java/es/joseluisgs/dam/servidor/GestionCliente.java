@@ -44,7 +44,7 @@ public class GestionCliente extends Thread implements Observer{
         boolean conectado = true;
         
         // Se apunta a la lista de observadores de mensajes para que todos estén al tanto
-        // Es decir, es la propio hilo el que se apunta, para ser avisado
+        // Es decir, es el propio hilo el que se apunta, para ser avisado
         mensajes.addObserver(this);
         
         while (conectado) {

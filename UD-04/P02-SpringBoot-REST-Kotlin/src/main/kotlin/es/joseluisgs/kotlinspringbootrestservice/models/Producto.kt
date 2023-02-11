@@ -1,6 +1,6 @@
 package es.joseluisgs.kotlinspringbootrestservice.models
 
-import es.joseluisgs.kotlinspringbootrestservice.Extensions.toSlug
+import es.joseluisgs.kotlinspringbootrestservice.extensions.toSlug
 import org.springframework.data.annotation.CreatedDate
 import org.springframework.data.jpa.domain.support.AuditingEntityListener
 import java.time.LocalDateTime

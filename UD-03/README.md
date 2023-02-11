@@ -7,26 +7,32 @@ Repositorios de materiales y proyectos usados como ejemplos en FP-NextGen para e
 ![fp-mad](https://raw.githubusercontent.com/joseluisgs/FP-NextGen-ProgramacionServiciosProcesos/main/images/proyecto-fpmaddigital.png)
 
 ![fp-recursos](https://raw.githubusercontent.com/joseluisgs/FP-NextGen-ProgramacionServiciosProcesos/main/images/recursosdigitales01.png)
-
 - [FP-NextGen-ProgramacionServiciosProcesos 💻](#fp-nextgen-programacionserviciosprocesos-)
-  - [Presentación](#presentación)
-  - [Contenidos](#contenidos)
+  - [03 Programación de comunicaciones en red](#03-programación-de-comunicaciones-en-red)
+  - [Ejemplos](#ejemplos)
+  - [Resultados de aprendizaje](#resultados-de-aprendizaje)
   - [Propuestas de cambios, sugerencias, mejoras, etc.](#propuestas-de-cambios-sugerencias-mejoras-etc)
   - [Dudas](#dudas)
   - [Autor](#autor)
     - [Contacto](#contacto)
   - [Licencia de uso](#licencia-de-uso)
 
-## Presentación
-Repositorios de materiales y proyectos usados de ejemplos en FP-NextGen para el módulo de Programación de Servicios y Procesos de 2º del ciclo de grado superior de Desarrollo de Aplicaciones Multiplataforma.
+## 03 Programación de comunicaciones en red
+A lo largo de esta unidad didáctica se trabajará con los siguientes conceptos:
+-  Protocolos
+-  Programación con Sockets
+-  Modelo Cliente-Servidor
 
-## Contenidos
-1. Programación multiproceso
-2. Programación concurrente y asíncrona
-3. Programación de comunicaciones en red
-4. Generación de servicios en red
-5. Técnicas de programación segura
+## Ejemplos
+1.  Refrescos Java
+2. Jamones Kotlin
 
+## Resultados de aprendizaje
+De acuerdo al [Real Decreto 450/2010](https://www.boe.es/boe/dias/2010/05/20/pdfs/BOE-A-2010-8067.pdf), de 16 de abril, por el que se establece el título de
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y se fijan sus
+enseñanzas mínimas, los resultados de aprendizaje de esta unidad es:
+
+3. Programa mecanismos de comunicación en red empleando sockets y analizando el escenario de ejecución.
 
 ## Propuestas de cambios, sugerencias, mejoras, etc.
 Nadie es perfecto, y puede que estos ejemplos desde tu punto de vista se puedan mejorar, o que haya algún error. Si tienes alguna propuesta de mejora, sugerencia, etc., abre un [issue](https://github.com/joseluisgs/FP-NextGen-ProgramacionServiciosProcesos/issues) o un [pull request](https://github.com/joseluisgs/FP-NextGen-ProgramacionServiciosProcesos/pulls) con tu aportación. Muchas gracias por tu colaboración.

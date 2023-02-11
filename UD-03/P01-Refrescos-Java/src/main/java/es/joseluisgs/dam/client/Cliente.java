@@ -34,11 +34,11 @@ public class Cliente {
             servidor = new Socket(direccion, puerto);//equivalente al send
             System.out.println("Conectado a Servidor ...");
 
-            //le envio el numero de refrescos que quiero
+            //le envío el número de refrescos que quiero
             DataOutputStream numRefrescos = new DataOutputStream(servidor.getOutputStream());
             numRefrescos.writeInt(numRefrescosPedir);
 
-            //recibo un array con las lista de refrescos
+            //recibo un array con la lista de refrescos
             ObjectInputStream listaRe = new ObjectInputStream(servidor.getInputStream());
             Maquina listaRefrescos = (Maquina) listaRe.readObject();
 

@@ -1,6 +1,6 @@
 # Spring-Productos-DAM
 
-Sencillo Microservicio para API Rest en Spring (Spring Boot) para Acceso a Datos de DAM en Kotlin.
+Sencillo Microservicio para API Rest en Spring (Spring Boot) para Programación de Servicios y Procesos de DAM en Kotlin.
 
 [![Spring](https://img.shields.io/badge/Code-Spring%20Kotlin-green)](https://spring.io)
 [![LICENSE](https://img.shields.io/badge/Lisence-CC-%23e64545)](https://joseluisgs.github.io/docs/license/)
@@ -49,7 +49,7 @@ Sencillo Microservicio para API Rest en Spring (Spring Boot) para Acceso a Datos
 
 ## API REST
 
-Sencilla Api REST con Spring Boot realizada con el alumnado para el curso de 2020/2021.
+Sencilla Api REST con Spring Boot realizada con el alumnado para el curso de 2021/2022.
 Con ella pondremos a prueba todo lo que hemos aprendido hasta el momento en Acceso a Datos y Programación de Servicios y Procesos.
 
 En este proyecto realizaremos una API REST con Spring Boot. Es decir, un servicio web que accede a datos de una base de datos para gestionar un recurso, donde a su vez, podemos realizar operaciones CRUD (Create, Read, Update, Delete) implementando mecanismos autenticación y autorización.

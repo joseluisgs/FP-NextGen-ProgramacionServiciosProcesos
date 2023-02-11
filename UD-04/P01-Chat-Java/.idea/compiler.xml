@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="P01-Chat-Java" />
         <module name="09-ChatObservable" />
         <module name="06-ChatObservable" />
       </profile>
