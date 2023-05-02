@@ -56,12 +56,20 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
 [![Twitter](https://img.shields.io/twitter/follow/joseluisgonsan?style=social)](https://twitter.com/joseluisgonsan)
 [![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)](https://github.com/joseluisgs)
 
+## Autor
+
+Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twitter.com/JoseLuisGS_)
+
+[![Twitter](https://img.shields.io/twitter/follow/JoseLuisGS_?style=social)](https://twitter.com/JoseLuisGS_)
+[![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)](https://github.com/joseluisgs)
+
 ### Contacto
+
 <p>
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
 </p>
 <p>
- <a href="https://joseluisgs.github.io/" target="_blank">
+ <a href="https://joseluisgs.github.dev/" target="_blank">
         <img src="https://joseluisgs.github.io/img/favicon.png" 
     height="30">
     </a>  &nbsp;&nbsp;
@@ -69,7 +77,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
         <img src="https://distreau.com/github.svg" 
     height="30">
     </a> &nbsp;&nbsp;
-        <a href="https://twitter.com/joseluisgonsan" target="_blank">
+        <a href="https://twitter.com/JoseLuisGS_" target="_blank">
         <img src="https://i.imgur.com/U4Uiaef.png" 
     height="30">
     </a> &nbsp;&nbsp;
@@ -84,13 +92,8 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
     <a href="https://g.dev/joseluisgs" target="_blank">
         <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" 
     height="30">
-    </a> &nbsp;&nbsp;
-    <a href="https://www.youtube.com/@joseluisgs" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
-    height="30">
     </a>    
 </p>
-
 
 ## Licencia de uso
 
